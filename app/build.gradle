@@ -25,7 +25,10 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 
-    implementation project(":toaster")
+//    implementation project(":toaster") // import toaster library module
+
+    // Toaster Library - For displaying desired toast messages
+    implementation 'com.github.VaibhavAWD:Toaster-Library:v1.0'
 
     // Butter Knife - For binding views
     implementation 'com.jakewharton:butterknife:8.8.1'
