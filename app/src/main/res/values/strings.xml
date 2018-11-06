@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">ToasterLibrary</string>
+    <string name="app_name">Toaster Library</string>
+    <string name="btn_show_toast_message">Show Toast Message</string>
+    <string name="msg_hello_world">Hello, World!</string>
 </resources>
