@@ -28,7 +28,7 @@ dependencies {
 //    implementation project(":toaster") // import toaster library module
 
     // Toaster Library - For displaying desired toast messages
-    implementation 'com.github.VaibhavAWD:Toaster-Library:v1.0'
+    implementation 'com.github.VaibhavAWD:Toaster-Library:v2.0'
 
     // Butter Knife - For binding views
     implementation 'com.jakewharton:butterknife:8.8.1'
