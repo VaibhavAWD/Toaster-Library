@@ -18,7 +18,7 @@ allprojects {
 
 ```java
 dependencies {
-  implementation 'com.github.VaibhavAWD:Toaster-Library:v1.0'
+  implementation 'com.github.VaibhavAWD:Toaster-Library:v2.0'
 }
 ```
 
