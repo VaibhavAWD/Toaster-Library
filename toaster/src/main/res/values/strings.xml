@@ -1,3 +1,38 @@
 <resources>
     <string name="app_name">Toaster</string>
+
+    <!-- Common Toast Messages -->
+
+    <!-- Network related messages -->
+    <string name="warn_msg_no_internet">No internet connection. Please check and try again</string>
+    <string name="error_msg_network_error">No Problem. Please try again later</string>
+
+    <!-- Login / Sign In related messages -->
+    <string name="warn_msg_no_username">Please enter Username</string>
+    <string name="warn_msg_no_password">Please enter Password</string>
+    <string name="warn_msg_no_auth_pin">Please enter Authentication PIN</string>
+    <string name="error_msg_invalid_credentials">Invalid credentials. Please check and try again</string>
+    <string name="error_msg_invalid_auth_pin">Invalid Authentication PIN. Please check and try again</string>
+
+    <!-- For common registration or other forms -->
+    <string name="warn_msg_empty_name">Please provide Name</string>
+    <string name="warn_msg_empty_phone">Please provide Phone Number</string>
+    <string name="warn_msg_empty_mobile">Please provide Mobile Number</string>
+    <string name="warn_msg_empty_email">Please provide Email ID</string>
+    <string name="warn_msg_empty_username">Please provide Username</string>
+    <string name="warn_msg_empty_password">Please provide Password</string>
+    <!-- Invalid form fields -->
+    <string name="warn_msg_invalid_name">Please provide valid Name</string>
+    <string name="warn_msg_invalid_phone">Please provide valid Phone Number</string>
+    <string name="warn_msg_invalid_mobile">Please provide valid Mobile Number</string>
+    <string name="warn_msg_invalid_email">Please provide valid Email ID</string>
+    <string name="warn_msg_invalid_username">Please provide valid Username</string>
+    <string name="warn_msg_invalid_password">Please provide valid Password</string>
+    <string name="warn_msg_min_password">Password should be at least %d characters long</string>
+
+    <!-- Success action messages -->
+    <string name="success_msg_saved">Saved</string>
+    <string name="success_msg_updated">Updated</string>
+    <string name="success_msg_deleted">Deleted</string>
+    <string name="success_msg_welcome">Welcome</string>
 </resources>
