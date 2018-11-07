@@ -29,3 +29,7 @@ Toaster.showToast(this, "Hello, World!");
 ```
 
 It is super easy to use. Isn't it!
+
+# Common Toast Messages
+
+The library also contains some common toast messages which are very useful in some common use case scenarios in many different projects. This helps developers saving lot of time instead of creating same string resources in every project repeatedly. The list of common toast messages can be <a href='https://github.com/VaibhavAWD/Toaster-Library/blob/master/toaster/src/main/res/values/strings.xml'>here</a>.
