@@ -21,6 +21,6 @@ public class ToastActivity extends AppCompatActivity {
 
     @OnClick(R.id.btn_show_toast_msg)
     protected void showToastMessage() {
-        Toaster.showToast(this, getString(R.string.msg_hello_world));
+        Toaster.showToast(this, getString(R.string.success_msg_welcome));
     }
 }
